@@ -1,1 +1,1 @@
-# qrede.github.io
+# my blog
